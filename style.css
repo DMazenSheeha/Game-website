@@ -19,7 +19,6 @@ html {
 body {
   font-family: var(--ff-oxanium);
   position: relative;
-  background-color: hsl(280deg 7.32% 8.04%);
 }
 
 * {
@@ -95,11 +94,9 @@ li {
   position: relative;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
 }
 
 .toTop {
-  display: none;
   width: 40px;
   height: 40px;
   background-color: var(--main-color);
