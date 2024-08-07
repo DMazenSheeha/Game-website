@@ -19,6 +19,7 @@ html {
 body {
   font-family: var(--ff-oxanium);
   position: relative;
+  background-color: var(--coded-by-bg);
 }
 
 * {
