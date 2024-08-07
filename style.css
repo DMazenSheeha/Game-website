@@ -99,6 +99,7 @@ li {
 }
 
 .toTop {
+  display: none;
   width: 40px;
   height: 40px;
   background-color: var(--main-color);
